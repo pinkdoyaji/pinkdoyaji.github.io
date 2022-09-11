@@ -2,7 +2,7 @@
 layout: post
 title: 01_데이터모델
 date: 2022-09-11 19:20:23 +0900
-categories: 비전공자도 쉽게 배워 바로 써먹는 실무 활용 SQL
+categories: [SQL]
 tags: [SQL, 데이터모델]
 ---
 # post-sample
