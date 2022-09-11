@@ -50,9 +50,9 @@
 <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
 		<li class="nav-title">Study</li>
-	   
-	    {{site.categories}}
-	   
+	   {% for post in site.categories[category_name] %}
+	    {{post}}
+	   {% endfor %}
 	  </nav>
 	</ul>
 </div>
